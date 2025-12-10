@@ -311,9 +311,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚡ Support
 
-- **Issues:** [GitHub Issues](https://github.com/Huntsman3800/valyan-bds-manager/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Huntsman3800/valyan-bds-manager/discussions)
-- **Reddit:** r/admincraft
+- **Issues:** [GitHub Issues](https://github.com/Huntsman3800/Valyan-BDS-Manger/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Huntsman3800/Valyan-BDS-Manger/discussions)
 
 ---
 
