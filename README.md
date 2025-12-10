@@ -50,7 +50,7 @@ We are actively working on safer distribution methods (compiled executable, Dock
 
 Download `Start-Bedrock.ps1` from the [latest release](https://github.com/Huntsman3800/Valyan-BDS-Manger/releases) or clone this repository:
 ```bash
-git clone https://github.com/yourusername/valyan-bds-manager.git
+git clone https://github.com/Huntsman3800/valyan-bds-manager.git
 ```
 
 ### 2. Enable PowerShell Scripts (One-Time Setup)
