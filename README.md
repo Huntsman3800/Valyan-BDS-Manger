@@ -1,9 +1,5 @@
 # Valyan BDS Manager
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
-
 **Valyan BDS Manager** is a powerful, lightweight automation tool for managing Minecraft Bedrock Dedicated Servers on Windows. Featuring automatic crash recovery, intelligent backup scheduling, and streamlined server administration—all through a simple PowerShell script. Designed for reliability and performance, Valyan BDS Manager puts full control of your Minecraft Bedrock servers in your hands.
 
 ---
